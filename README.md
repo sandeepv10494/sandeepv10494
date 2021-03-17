@@ -19,15 +19,10 @@
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Angular Material"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/angular-material-logo.svg" />
 <img align="left" alt="Vue"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/Vue.js_Logo.svg.png" />
-<img align="left" alt="Vuetify"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/vuetify.svg" />
-<img align="left" alt="NodeJS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/java.svg.png" />
 <img align="left" alt="Springboot"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/spring-logo.svg" />
 <img align="left" alt="GoLang"height="32" width="32" src="https://github.com/sandeepv10494/sandeepv10494/blob/main/sandeepv10494/images/golang.png" />
