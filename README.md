@@ -35,7 +35,7 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/ankitsharma-007/
+[linkedin]: https://www.linkedin.com/in/sandeepv10494/
 
 <!---
 sandeepv10494/sandeepv10494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
