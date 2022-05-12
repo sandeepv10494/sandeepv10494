@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Passionate Programmer | Photography & Travel enthusiast
 
-- 🔭 I’m currently working on Angular, Java, Spring Boot, GoLang, VueJs, Edge Devices, IoT , Amazon Web Services
+- 🔭 I’m currently working on Java, JavaScript, Spring Boot, GoLang, VueJs, Edge Devices, IoT , Amazon Web Services
 - 🌱 I’m currently learning Cloud Computing, IoT Platform, Full Stack Application development, Flutter
 - 👀 I’m interested in IoT platforms, Cloud Computing, MEAN, MEVN, Java, SpringBoot, Golang, Flutter, DS & Algorithms
 - 📫 How to reach me: sandeepv.10494@gmail.com
